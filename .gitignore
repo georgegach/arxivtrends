@@ -1,0 +1,8 @@
+db/pdfs
+*/__pycache__
+db/intros
+db/imgs
+jup
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+src/env.json
