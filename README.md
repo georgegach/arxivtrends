@@ -5,5 +5,6 @@
 - [x] Reliable PDF text and image parser
 - [x] Pleasant UI/UX
 - [x] WordCloud, Reports, 
+- [ ] Dockerify
 - [ ] LaTeX text renderer
 - [ ] Reputation-based predictive modeling
